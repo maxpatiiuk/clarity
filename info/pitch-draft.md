@@ -6,6 +6,8 @@
 Most deaths in the United States are preventable, and they are related to what we consume.  Today there is no software that informs consumers on their diet behaviors automatically.   Additionally, healthcare providers have streamlined access to a patient's medical history, current medications, and supplements, however providers do not have access to a patient's diet history.  Now, currently obesity kills more people than starvation (World Health Organization), processed meat for example can be classified as a Group 1, carcinogenic to hlsumans (WHO), and according to the Institute for Health Metrics and Evaluations at the University of Washington, poor diet alone is one of the top leading risk factors for disease-related deaths, not just in the United States, but in the majority of developed countries around the world (Afshin 1). Therefore, indicating that obesity is not solely a medical problem that requires intervention, but rather a market based problem. https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf
 Currently today healthcare focuses on illness, rather than wellness.
 
+
+
 **2.  Problem statement expanded**
 
 The majority of healthcare in America today directs medicine to invervention, clarity adds a new paradigm in healthcare prevention.  Most dealths in the United States are preventable, and they are related to what we eat.  Clarity aims to provide healthcare providers, insurance companies, and patients with the tools to understand and control consumption patterns related to food and drug patient's transactional metadata.
@@ -91,5 +93,7 @@ However the software product we are providering to insurance companies and healt
 **18.  What do you understand about your business that other companies in it just don't get**
 
 We believe that healthcare prevention is still profitable and can conform to the current economic system that exists today.
+
+**Notes**
 
 
