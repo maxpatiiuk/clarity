@@ -11,7 +11,3 @@ healthcare prevention software proposals and implementation drafts by payden bru
 # clarity
 
 ### Morgan Bergen & Payden Brunton
-
-
-** bold **
-_ italic _

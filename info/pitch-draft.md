@@ -3,13 +3,14 @@
 #### questions addressed
 **1.  Define the problem statement**
 
-Most deaths in the United States are preventable, and they are related to what we eat.  Today there is no software that informs consumers on their diet behaviors automatically.   Additionally, healthcare providers have streamlined access to a patient's medical history, current medications, and supplements, however providers do not have access to a patient's diet history.  Now, currently obesity kills more people than starvation (World Health Organization), processed meat for example can be classified as a Group 1, carcinogenic to hlsumans (WHO), and according to the Institute for Health Metrics and Evaluations at the University of Washington, poor diet alone is one of the top leading risk factors for disease-related deaths, not just in the United States, but in the majority of developed countries around the world (Afshin 1). Therefore, indicating that obesity is not solely a medical problem that requires intervention, but rather a market based problem. https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf
+Most deaths in the United States are preventable, and they are related to what we consume.  Today there is no software that informs consumers on their diet behaviors automatically.   Additionally, healthcare providers have streamlined access to a patient's medical history, current medications, and supplements, however providers do not have access to a patient's diet history.  Now, currently obesity kills more people than starvation (World Health Organization), processed meat for example can be classified as a Group 1, carcinogenic to hlsumans (WHO), and according to the Institute for Health Metrics and Evaluations at the University of Washington, poor diet alone is one of the top leading risk factors for disease-related deaths, not just in the United States, but in the majority of developed countries around the world (Afshin 1). Therefore, indicating that obesity is not solely a medical problem that requires intervention, but rather a market based problem. https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf
+Currently today healthcare focuses on illness, rather than wellness.
 
 **2.  Problem statement expanded**
 
 The majority of healthcare in America today directs medicine to invervention, clarity adds a new paradigm in healthcare prevention.  Most dealths in the United States are preventable, and they are related to what we eat.  Clarity aims to provide healthcare providers, insurance companies, and patients with the tools to understand and control consumption patterns related to food and drug patient's transactional metadata.
 
-**3.  The setting ofthe problem**
+**3.  The setting of the problem**
 
 point of sale
 
@@ -30,6 +31,8 @@ Our users don’t understand their consumption behavior objectively.  Consumers 
 **7.  How serious, big, immediate, frequent is the problem?**
 
 Most deaths in the United States are preventable, and they are related to what we eat (4).  Our diet is the number-one cause of premature death and the number-one cause of disability (5).  Surely, diet must also be the number-one thing taught in medical schools, right?  Sadly, it’s not. According to the most recent national survey, only a quarter of medical schools offer a single course in nutrition, down from 37 percent thirty years ago (6).
+
+
 4. Lenders C, Gorman K, Milch H, et al. A novel nutrition medicine education model: the Boston University experience. Adv Nutr. 2013;4(1):1–7.
 5. Murray CJ, Atkinson C, Bhalla K, et al. The state of US health, 1990–2010: burden of diseases, injuries, and risk factors. JAMA. 2013;310(6):591–608.
 6. Kris-Etherton PM, Akabas SR, Bales CW, et al. The need to advance nutrition education in the training of health care professionals and recommended research to evaluate implementation and effectiveness. Am J Clin Nutr. 2014;99(5 Suppl):1153S–66S.
@@ -37,13 +40,16 @@ Most deaths in the United States are preventable, and they are related to what w
 **8.  How will you go about implementing your solution**
 
 How will you go about implementing your solution?
-Our solution would be in the form of a mobile app which requires two inputs that tracks food and drug related expenses.  Every time you made a transaction with your card, it would go through and see what food you purchased and then it would be able to analyze that and synthesize all of the nutritional data and provide that data to users in an ingestible format.
+Our solution would be in the form of a mobile app which requires two inputs that tracks food and drug related expenses.  Every time you make a transaction with your card, it would go through and see what food you purchased and then it would be able to analyze that and synthesize all of the nutritional data and provide that data to users in an ingestible format.
+
+
 
 **9.  The solution statement**
 
-Clarity is a web application that analyzes users' food purchases and generates nutritional metadata. The user would have complete control over their data, which they could share with healthcare providers.
+Clarity is a web application that analyzes users' food purchases and generates nutritional metadata. The user would have complete control over their data, which they could share with healthcare providers.  The purpose of clarity is to provide clarity to who consumes what in our marketplace.  Specifically which individuals consume what food/drug via transactional survalience
+##A Software that informs what a patient/user consumes to healthcare and insurance providers.
+A software that analyzes user’s transactional data
 
-The purpose of clarity is to provide clarity to who consumes what in our marketplace.  Specifically which individuals consume what food/drug via transactional survalience.
 
 **10. Describe what your company does in 50 characters or less**
 
@@ -75,7 +81,7 @@ Subjectively speaking I am someone who cares about my health, however I still wi
 
 In the conventional sense, our competitors are non-existent; meaning there are no software companies that scrape transactional metadata for healthcare purposes.  However, maybe we do have competitors, but currently our research does not indicate that there are companies doing this.  Define what a competitor is?  Is a company that is trying to solve a similar problem.  With this definition in mind our industry competitors are every healthcare service that treats lifestyle driven chronic disease.
 
-The competitors in the current field would be industries and government initatives that drive to increase awareness and education on nutrition.  
+The competitors in the current field would be industries and government initatives that drive to increase awareness and education on nutrition and lifestyle.  
 
 **17. How will you make money / define your business model?**
 
