@@ -6,12 +6,16 @@
 Most deaths in the United States are preventable, and they are related to what we consume.  Today there is no software that informs consumers on their diet behaviors automatically.   Additionally, healthcare providers have streamlined access to a patient's medical history, current medications, and supplements, however providers do not have access to a patient's diet history.  Now, currently obesity kills more people than starvation (World Health Organization), processed meat for example can be classified as a Group 1, carcinogenic to hlsumans (WHO), and according to the Institute for Health Metrics and Evaluations at the University of Washington, poor diet alone is one of the top leading risk factors for disease-related deaths, not just in the United States, but in the majority of developed countries around the world (Afshin 1). Therefore, indicating that obesity is not solely a medical problem that requires intervention, but rather a market based problem. https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf
 Currently today healthcare focuses on illness, rather than wellness.
 
+<<<<<<< HEAD
 Our users are individuals worldwise who suffer from any of the following disorders Alcohol User Disorder, Tobacco Use Disorder, Nicotine Use Dependence Disorder, or have cardiovascular disease, with mild, moderate, and severe sub-classifications.
 
 Chronic diseases are a tremendous burden to both patients and the health care system and it is only increasing over time.
 
 Chronic diseases are also the leading drivers of health care costs in the United States (2). In 2016, total direct costs for health care treatment of chronic diseases were more than $1 trillion, with diabetes, Alzheimer’s, and osteoarthritis being the most expensive (2,7). If lost economic productivity is also considered, the total cost of chronic diseases increases to $3.7 trillion, which is close to one-fifth of the entire US economy (7,8). These costs are expected to increase as the population ages — projections indicate that by 2030, more than 80 million people in the United States will have at least 3 chronic diseases (7).
 Clinical preventive strategies are available for many chronic diseases; these strategies include intervening before disease occurs (primary prevention), detecting and treating disease at an early stage (secondary prevention), and managing disease to slow or stop its progression (tertiary prevention). These interventions, combined with lifestyle changes, can substantially reduce the incidence of chronic disease and the disability and death associated with chronic disease (9). However, clinical preventive services are substantially underutilized despite the human and economic burden of chronic diseases, the availability of evidence-based tools to prevent or ameliorate them, and the effectiveness of prevention strategies (9–11). For example, in 2015, only 8% of US adults aged 35 or older received all recommended, high-priority, appropriate clinical preventive services, and nearly 5% received none (12).
+=======
+
+>>>>>>> 8e05bf4713e04c85b9c9d2c6c77f83922ff0c044
 
 **2.  Problem statement expanded**
 
@@ -534,6 +538,8 @@ https://www.ycombinator.com/apply/dropbox
 
 
 
+
+**Notes**
 
 
 xs
