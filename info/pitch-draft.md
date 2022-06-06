@@ -53,9 +53,14 @@ Most deaths in the United States are preventable, and they are related to what w
 How will you go about implementing your solution?
 Our solution would be in the form of a mobile app which requires two inputs that tracks food and drug related expenses.  Every time you make a transaction with your card, it would go through and see what food you purchased and then it would be able to analyze that and synthesize all of the nutritional data and provide that data to users in an ingestible format.
 
+Clarity is a new Healthcare Prevention Paradigm
+
+
 
 
 **9.  The solution statement**
+
+Clarity is a new Healthcare Prevention Paradigm
 
 Clarity is a web application that analyzes users' food purchases and generates nutritional metadata. The user would have complete control over their data, which they could share with healthcare providers.  The purpose of clarity is to provide clarity to who consumes what in our marketplace.  Specifically which individuals consume what food/drug via transactional survalience
 ##A Software that informs what a patient/user consumes to healthcare and insurance providers.
