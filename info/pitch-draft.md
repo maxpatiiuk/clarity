@@ -6,7 +6,6 @@
 Most deaths in the United States are preventable, and they are related to what we consume.  Today there is no software that informs consumers on their diet behaviors automatically.   Additionally, healthcare providers have streamlined access to a patient's medical history, current medications, and supplements, however providers do not have access to a patient's diet history.  Now, currently obesity kills more people than starvation (World Health Organization), processed meat for example can be classified as a Group 1, carcinogenic to hlsumans (WHO), and according to the Institute for Health Metrics and Evaluations at the University of Washington, poor diet alone is one of the top leading risk factors for disease-related deaths, not just in the United States, but in the majority of developed countries around the world (Afshin 1). Therefore, indicating that obesity is not solely a medical problem that requires intervention, but rather a market based problem. https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf
 Currently today healthcare focuses on illness, rather than wellness.
 
-<<<<<<< HEAD
 Our users are individuals worldwise who suffer from any of the following disorders Alcohol User Disorder, Tobacco Use Disorder, Nicotine Use Dependence Disorder, or have cardiovascular disease, with mild, moderate, and severe sub-classifications.
 
 Chronic diseases are a tremendous burden to both patients and the health care system and it is only increasing over time.
@@ -472,79 +471,3 @@ Dean Ornish, MD
 
 Users will sign up through our mobile app. They will input personal information and debit/credit card information. The app will give the user a detailed health analysis of their purchases. 
 https://www.ycombinator.com/apply/dropbox 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Notes**
-
-
-xs
