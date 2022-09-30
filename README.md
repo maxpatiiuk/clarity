@@ -1,5 +1,3 @@
-# clarity
-#### Morgan Bergen & Payden Brunton
 
 
 ### about
