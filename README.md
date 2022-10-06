@@ -1,5 +1,9 @@
 # davidB
 
+_hello_
+my name is morgan bergen
+mu asdh as 3aisih s2x89d
+
 A healthcare prevention software that changes social behavior for the better.
 ## Table of Contents
 1.  [Mission Statement](#mission-statement)
@@ -53,6 +57,7 @@ If we help insurance providers in reducing economic waste we
 ### Problem for Physicians
 ## Solution
 
+Clarity is the first healthcare prevention software that provides nutritional data ontransactions made for an insurance provider's entitlement population as well as a healthcare provider's patient population.  In doiing so we increase diagnostic accuracy and we help reduce the rates of risk.
 
 ### Solution Statement
 
