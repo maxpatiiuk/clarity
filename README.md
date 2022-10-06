@@ -1,8 +1,4 @@
-# davidB
-
-_hello_
-my name is morgan bergen
-mu asdh as 3aisih s2x89d
+# clarity
 
 A healthcare prevention software that changes social behavior for the better.
 ## Table of Contents
@@ -28,11 +24,11 @@ A healthcare prevention software that changes social behavior for the better.
 
 
 ## Mission Statement
-davidB is a software project that aims to mitigate the burden of chronic disease in America by applying an intermediary layer of computation behind every food and drug related transaction made by all individuals in our economy today.  We believe that software can and should be capable to change behavior for the better and we believe that a new paradigm of healthcare prevention software can realize that belief system.
+clarity is a software project that aims to mitigate the burden of chronic disease in America by applying an intermediary layer of computation behind every food and drug related transaction made by all individuals in our economy today.  We believe that software can and should be capable to change behavior for the better and we believe that a new paradigm of healthcare prevention software can realize that belief system.
 
 ## Pitch
 
-davidB is the first healthcare prevention and health management software that allows for physicians and insurance providers to see what their patients consume in real-time.
+Clarity is the first healthcare prevention and health management software that allows for physicians and insurance providers to see what their patients consume in real-time.
 
 ## Problem 
 
@@ -63,9 +59,9 @@ Clarity is the first healthcare prevention software that provides nutritional da
 
 ### Solution for Health Insurance Providers
 
-Population health management software.
-Data Collection and Platform Infrastructure
+// define key metrics to optimize for Insurance Provider?
 
+Population health management software.  Data Collection and Platform Infrastructure
 
 1.  Clarity collects an individual’s food & drug related transactions. 
 2.  Parse and generates a patient profile nutritional data structure from those transactions.
@@ -305,9 +301,19 @@ Pipeline that data structure in pre-existing web based EMS portal.  (EMS - elect
 ### Demo
 
 ### User Case Example
+
 ## Market
 
 ### Nationwide Market Size
+
+Total addressable market size in the United States.
+Adpotion for Key Clients
+
+
+5,654 Health Insurance Companies
+784,626 Healthcare Providers
+330 Million Americans / Define total smart phone users
+
 
 ### Clients
 
@@ -329,3 +335,6 @@ Pipeline that data structure in pre-existing web based EMS portal.  (EMS - elect
 #### [U.S. Center for Medicare & Medicaid Services (CMS](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical)
 
 #### [Reinvesting the Health Insurance Business](https://youtu.be/RplUwT6-HmQ)
+
+
+####[U.S. Health Insurance Industry Analysis Report](https://content.naic.org/sites/default/files/inline-files/2020-Annual-Health-Insurance-Industry-Analysis-Report.pdf)
