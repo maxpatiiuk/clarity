@@ -366,3 +366,5 @@ Aetna’s Interoperability API Developer Portal
 [uber api](https://developer.uber.com/docs/eats/introduction)
 
 [food labeling](https://www.nal.usda.gov/legacy/aglaw/food-labeling)
+
+[pitch for startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
