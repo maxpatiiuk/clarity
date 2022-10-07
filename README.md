@@ -56,8 +56,6 @@ Clarity is the first healthcare prevention software that provides nutritional da
 
 ### Solution Statement
 
-
-
 ### Solution for Health Insurance Providers
 
 // define key metrics to optimize for Insurance Provider?
@@ -299,11 +297,12 @@ Pipeline that data structure in pre-existing web based EMS portal.  (EMS - elect
 
 ### Product Implementation
 
-Utilizing the following
+Utilizing the following,
 
-[Aetna’s Interoperability API Developer Portal](https://developerportal.aetna.com/welcome)
+[aetna’s Interoperability API Developer Portal](https://developerportal.aetna.com/welcome)
 [uber api](https://developer.uber.com/docs/eats/guides/order-integration)
 [stripes api](https://stripe.com/docs/tax/tax-categories)
+
 
 ### Demo
 
@@ -360,9 +359,7 @@ Aetna’s Interoperability API Developer Portal
 #### [U.S. Health Insurance Industry Analysis Report](https://content.naic.org/sites/default/files/inline-files/2020-Annual-Health-Insurance-Industry-Analysis-Report.pdf)
 
 
-
-
-[All of us](https://allofus.nih.gov)
+[all of us](https://allofus.nih.gov)
 
 [United Healthcare Student Resources](http://uhscsr.com)
 
