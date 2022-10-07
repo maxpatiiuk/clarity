@@ -57,6 +57,8 @@ Clarity is the first healthcare prevention software that provides nutritional da
 
 ### Solution Statement
 
+
+
 ### Solution for Health Insurance Providers
 
 // define key metrics to optimize for Insurance Provider?
@@ -312,12 +314,27 @@ Adpotion for Key Clients
 
 5,654 Health Insurance Companies
 784,626 Healthcare Providers
-330 Million Americans / Define total smart phone users
-
+330 Million Americans / Define total smart phone users.
 
 ### Clients
 
+BlueCross BlueShield
+Aetna
+Humana
+McKesson
+United Healthcare
+CVSHealth
+AmerisourceBergen
+
+Aetna’s Interoperability API Developer Portal
+
 ### Vendors
+
+
+### Feedback
+
+[actuary's at Health Insurance Companies](https://en.wikipedia.org/wiki/Actuary)
+
 
 ## References
 
