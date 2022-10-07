@@ -22,7 +22,6 @@ A healthcare prevention software that changes social behavior for the better.
 8. [Vendors](###vendors)
 9. [References](##references)
 
-
 ## Mission Statement
 clarity is a software project that aims to mitigate the burden of chronic disease in America by applying an intermediary layer of computation behind every food and drug related transaction made by all individuals in our economy today.  We believe that software can and should be capable to change behavior for the better and we believe that a new paradigm of healthcare prevention software can realize that belief system.
 
@@ -300,6 +299,12 @@ Pipeline that data structure in pre-existing web based EMS portal.  (EMS - elect
 
 ### Product Implementation
 
+Utilizing the following
+
+[Aetna’s Interoperability API Developer Portal](https://developerportal.aetna.com/welcome)
+[uber api](https://developer.uber.com/docs/eats/guides/order-integration)
+[stripes api](https://stripe.com/docs/tax/tax-categories)
+
 ### Demo
 
 ### User Case Example
@@ -334,8 +339,6 @@ Aetna’s Interoperability API Developer Portal
 ### Feedback
 
 [actuary's at Health Insurance Companies](https://en.wikipedia.org/wiki/Actuary)
-
-
 ## References
 
 ### 1. Health Care and the Budget: Issues and Challenges for Reform
@@ -354,4 +357,15 @@ Aetna’s Interoperability API Developer Portal
 #### [Reinvesting the Health Insurance Business](https://youtu.be/RplUwT6-HmQ)
 
 
-####[U.S. Health Insurance Industry Analysis Report](https://content.naic.org/sites/default/files/inline-files/2020-Annual-Health-Insurance-Industry-Analysis-Report.pdf)
+#### [U.S. Health Insurance Industry Analysis Report](https://content.naic.org/sites/default/files/inline-files/2020-Annual-Health-Insurance-Industry-Analysis-Report.pdf)
+
+
+
+
+[All of us](https://allofus.nih.gov)
+
+[United Healthcare Student Resources](http://uhscsr.com)
+
+[uber api](https://developer.uber.com/docs/eats/introduction)
+
+[food labeling](https://www.nal.usda.gov/legacy/aglaw/food-labeling)
