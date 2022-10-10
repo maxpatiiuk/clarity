@@ -123,40 +123,40 @@ electronic medical records systems).
 
 ## Product
 
-```json5
+```yml
 [
   {
     "timestamp": "yyyy-mm-ddThh:mn:ssZ",
     "transaction": [
         {
-        "location": "",
-        "vendor": "",
-        "ven-id": ""
+            "location": "",
+            "vendor": "",
+            "vendor-id": ""
         }
     ],
 
     "general": [
         {
-        // Barcode of the product
-        "code": "200-EAN-13",
+            // Barcode of the product
+            "code": "200-EAN-13",
 
-        // URL of the product page
-        "url": "https://xxx.com",
-        
-        // Date that the product was added (UNIX timestamp format)
-        "created_t": "yyyy-mm-ddThh:mn:ssZ",
+            // URL of the product page
+            "url": "https://xxx.com",
+            
+            // Date that the product was added (UNIX timestamp format)
+            "created_t": "yyyy-mm-ddThh:mn:ssZ",
 
-        // Date that the product was last modified (UNIX timestamp format)
-        "last_modified_t": "yyyy-mm-ddThh:mn:ssZ",
+            // Date that the product was last modified (UNIX timestamp format)
+            "last_modified_t": "yyyy-mm-ddThh:mn:ssZ",
 
-        // Name of the product
-        "product_name": "cherios",
+            // Name of the product
+            "product_name": "cherios",
 
-        // Generic name of the product
-        "generic_name": "cereal",
+            // Generic name of the product
+            "generic_name": "cereal",
 
-        // Field that designates quantity and unit size
-        "quantity":  _100g
+            // Field that designates quantity and unit size
+            "quantity":  _100g
         }
     ],
     "tags" : [
@@ -214,7 +214,7 @@ electronic medical records systems).
             // Reference: https://fr.openfoodfacts.org/nutriscore
             "nutrition_grade_fr": "a",
 
-            "main_category": { ... },
+            "main_category": ...,
         }
     ],
 
