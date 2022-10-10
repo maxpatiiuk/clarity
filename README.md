@@ -123,7 +123,7 @@ electronic medical records systems).
 
 ## Product
 
-```JSON
+```json5
 [
   {
     "timestamp": "yyyy-mm-ddThh:mn:ssZ",
@@ -137,25 +137,25 @@ electronic medical records systems).
 
     "general": [
         {
-        // barcode of the product
+        // Barcode of the product
         "code": "200-EAN-13",
 
-        // url of the product page
+        // URL of the product page
         "url": "https://xxx.com",
         
-        // date that the product was added (UNIX timestamp format)
+        // Date that the product was added (UNIX timestamp format)
         "created_t": "yyyy-mm-ddThh:mn:ssZ",
 
-        // date that the product was last modified (UNIX timestamp format)
+        // Date that the product was last modified (UNIX timestamp format)
         "last_modified_t": "yyyy-mm-ddThh:mn:ssZ",
 
-        // name of the product
-        "product_name":  "cherios",
+        // Name of the product
+        "product_name": "cherios",
 
-        // generic name of the product
-        "generic_name":  "cereal",
+        // Generic name of the product
+        "generic_name": "cereal",
 
-        // field that designates quantity and unit size
+        // Field that designates quantity and unit size
         "quantity":  _100g
         }
     ],
@@ -167,9 +167,9 @@ electronic medical records systems).
             "brand_tags": "", 
             "categories": "",
             "categories_fr": "",
-            "origins":  "origins of ingredients",
-            "origintags":  "",
-            // locations where manufactured or transformed
+            "origins": "origins of ingredients",
+            "origintags": "",
+            // Locations where manufactured or transformed
             "manufacturing_places": "",
             "manufacturing_places_atgs": "",
             "labels": "",
@@ -177,16 +177,16 @@ electronic medical records systems).
             "emb_codes": "",
             "emb_code_tags": "",
 
-            // coordinates corresponding to the first packaging code indicated
-            "first_packaging_code_geo":  "",
+            // Coordinates corresponding to the first packaging code indicated
+            "first_packaging_code_geo": "",
             "cities": "",
             "cities_tags": "",
             "purchase_places": "",
             "stores": "",
             
-            // list of countries where the product is sold
-            "countries":  "",
-            "countries_tags":  ""
+            // List of countries where the product is sold
+            "countries": "",
+            "countries_tags": ""
         }
     ],
     "ingredients" : [
@@ -198,126 +198,132 @@ electronic medical records systems).
     ],
     "misc_data" : [
         {
-            serving_side : serving size in g
-            no_nutrients : indicates if the nutrition facts are indicated on the food label
-            additives
-            additives_tags
-            ingredients_from_palm_oil_n
-            ingreidents_from_palm_oil
-            ingreidents_from_palm_oil_tags
-            ingreidents_that_may_be_from_palm_oil_n
-            ingreidents_that_may_be_from_palm_oil_tags
+            // Serving size in g
+            "serving_side": ...,
+            // Indicates if the nutrition facts are indicated on the food label
+            "no_nutrients": ...,
+            "additives": ...,
+            "additives_tags": ...,
+            "ingredients_from_palm_oil_n": ...,
+            "ingreidents_from_palm_oil": ...,
+            "ingreidents_from_palm_oil_tags": ...,
+            "ingreidents_that_may_be_from_palm_oil_n": ...,
+            "ingreidents_that_may_be_from_palm_oil_tags": ...,
             
-            // reference https://fr.openfoodfacts.org/nutriscore
-            nutrition_grade_fr : nutrition grade ('a' to 'e')
+            // Nutrition grade ('a' to 'e')
+            // Reference: https://fr.openfoodfacts.org/nutriscore
+            "nutrition_grade_fr": "a",
 
-            main_category
+            "main_category": { ... },
         }
     ],
 
     "nutrition_facts": [
         {
-            "energy_100g": _000g,
-
-
-            "energy-kj_100g": _000g,
-        
-
+            "energy_100g": ...,
+            "energy-kj_100g": ...,
+            ...
         }
     ],
 
     "nutrition_facts" : [
         {
-            "energy-kcal_100g"
-            "proteins_100g"
-            "casein_100g"
-            "serum-proteins_100g"
-            "nucleotides_100g"
-            "carbohydrates_100g"
-            "sugars_100g"
-            "sucrose_100g"
-            "glucose_100g"
-            "fructose_100g"
-            "lactose_100g"
-            "maltose_100g"
-            "maltodextrins_100g"
-            "starch_100g"
-            "polyols_100g"
-            "fat_100g"
-            "saturated-fat_100g"
-            "butyric-acid_100g"
-            caproic-acid_100g
-            caprylic-acid_100g
-            lauric-acid_100g
-            myristic-acid_100g
-            palmitic-acid_100g
-            stearic-acid_100g
-            arachidic-acid_100g
-            behenic-acid_100g
-            lignoceric-acid_100g
-            cerotic-acid_100g
-            motanic-acid_100g
-            melissic-acid_100g
-            monounsaturated-fat_100g
-            polyunsaturated-fat_100g
-            omega_3-fat_100g
-            alpha-linolenic-acid_100g
-            eicosapentaenoic-acid_100g
-            docosahexaenoic-acid_100g
-            omega_6-fat_100g
-            linoleic-acid_100g
-            arachidonic-acid_100g
-            gamma-linolenic-acid_100g
-            dihomo-gamma-linolenic-acid_100g
-            omega_9-fat_100g
-            oleic-acid_100g
-            elaidic-acid_100g
-            gondoic-acid_100g
-            mead-acid_100g
-            erucic-acid_100g
-            nervonic-acid_100g
-            trans-fat_100g
-            cholesterol_100g
-            fiber_100g
-            sodium_100g
-            alcohol_100g: % vol of alcohol
-            vitamin-a_100g
-            vitamin-d_100g
-            vitamin-e_100g
-            vitamin-c_100g
-            vitamin-b1_100g
-            vitamin-b2_100g
-            vitamin-pp_100g
-            vitamin-b6_100g
-            vitamin-b9_100g
-            vitamin-b12_100g
-            biotin_100g: also known as vitamine b8
-            pantothenic-acid_100g
-            silica_100g
-            bicarbonate_100g
-            chloride_100g
-            calcium_100g
-            phosphorus_100g
-            iron_100g
-            magnesium_100g
-            zinc_100g
-            copper_100g
-            manganeses_100g
-            fluoride_100g
-            selenium_100g
-            chromium_100g
-            molybdenum_100g
-            iodine_100g
-            caffeine_100gtaurine_100g
-            ph_100g : pH (no unit)
-            fruits-vegetables-nuts_100g : % of fruits, vegetables, and nuts (excluding potatoes, yams, manioc)
+            "energy-kcal_100g": ...,
+            "proteins_100g": ...,
+            "casein_100g": ...,
+            "serum-proteins_100g": ...,
+            "nucleotides_100g": ...,
+            "carbohydrates_100g": ...,
+            "sugars_100g": ...,
+            "sucrose_100g": ...,
+            "glucose_100g": ...,
+            "fructose_100g": ...,
+            "lactose_100g": ...,
+            "maltose_100g": ...,
+            "maltodextrins_100g": ...,
+            "starch_100g": ...,
+            "polyols_100g": ...,
+            "fat_100g": ...,
+            "saturated-fat_100g": ...,
+            "butyric-acid_100g": ...,
+            "caproic-acid_100g": ...,
+            "caprylic-acid_100g": ...,
+            "lauric-acid_100g": ...,
+            "myristic-acid_100g": ...,
+            "palmitic-acid_100g": ...,
+            "stearic-acid_100g": ...,
+            "arachidic-acid_100g": ...,
+            "behenic-acid_100g": ...,
+            "lignoceric-acid_100g": ...,
+            "cerotic-acid_100g": ...,
+            "motanic-acid_100g": ...,
+            "melissic-acid_100g": ...,
+            "monounsaturated-fat_100g": ...,
+            "polyunsaturated-fat_100g": ...,
+            "omega_3-fat_100g": ...,
+            "alpha-linolenic-acid_100g": ...,
+            "eicosapentaenoic-acid_100g": ...,
+            "docosahexaenoic-acid_100g": ...,
+            "omega_6-fat_100g": ...,
+            "linoleic-acid_100g": ...,
+            "arachidonic-acid_100g": ...,
+            "gamma-linolenic-acid_100g": ...,
+            "dihomo-gamma-linolenic-acid_100g": ...,
+            "omega_9-fat_100g": ...,
+            "oleic-acid_100g": ...,
+            "elaidic-acid_100g": ...,
+            "gondoic-acid_100g": ...,
+            "mead-acid_100g": ...,
+            "erucic-acid_100g": ...,
+            "nervonic-acid_100g": ...,
+            "trans-fat_100g": ...,
+            "cholesterol_100g": ...,
+            "fiber_100g": ...,
+            "sodium_100g": ...,
+            // % vol of alcohol
+            "alcohol_100g": ...,
+            "vitamin-a_100g": ...,
+            "vitamin-d_100g": ...,
+            "vitamin-e_100g": ...,
+            "vitamin-c_100g": ...,
+            "vitamin-b1_100g": ...,
+            "vitamin-b2_100g": ...,
+            "vitamin-pp_100g": ...,
+            "vitamin-b6_100g": ...,
+            "vitamin-b9_100g": ...,
+            "vitamin-b12_100g": ...,
+            // Also known as vitamine b8
+            "biotin_100g": ...,
+            "pantothenic-acid_100g": ...,
+            "silica_100g": ...,
+            "bicarbonate_100g": ...,
+            "chloride_100g": ...,
+            "calcium_100g": ...,
+            "phosphorus_100g": ...,
+            "iron_100g": ...,
+            "magnesium_100g": ...,
+            "zinc_100g": ...,
+            "copper_100g": ...,
+            "manganeses_100g": ...,
+            "fluoride_100g": ...,
+            "selenium_100g": ...,
+            "chromium_100g": ...,
+            "molybdenum_100g": ...,
+            "iodine_100g": ...,
+            "caffeine_100gtaurine_100g": ...,
+            // pH (no unit)
+            "ph_100g": ..., 
+            // % of fruits, vegetables, and nuts (excluding potatoes, yams, manioc)
+            "fruits-vegetables-nuts_100g": ...,
         }
     ],
 
-    nutrition-score-fr_100g : Nutri-Score - 
-    Nutrition score derived from the UK FSA score and adapted for the French market (formula defined by the team of Professor Hercberg)
+    // Nutri-Score
+    // Nutrition score derived from the UK FSA score and adapted for the French market (formula defined by the team of Professor Hercberg)
+    "nutrition-score-fr_100g" : "a",
 
-    nutrition-score-uk_100g : nutrition score defined by the UK Food Standards Administration (FSA)
+    // Nutrition score defined by the UK Food Standards Administration (FSA)
+    "nutrition-score-uk_100g": "a",
 
   }
 ] 
