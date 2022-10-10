@@ -1,4 +1,4 @@
-# clarity
+# Clarity
 
 A healthcare prevention software that changes social behavior for the better.
 
@@ -26,17 +26,17 @@ A healthcare prevention software that changes social behavior for the better.
 
 ## Mission Statement
 
-clarity is a software project that aims to mitigate the burden of chronic
+Clarity is a software project that aims to mitigate the burden of chronic
 disease in America by applying an intermediary layer of computation behind every
-food and drug related transaction made by all individuals in our economy today.
-We believe that software can and should be capable to change behavior for the
+food and drug-related transaction made by all individuals in our economy today.
+We believe that software can and should be capable of changing behavior for the
 better and we believe that a new paradigm of healthcare prevention software can
 realize that belief system.
 
 ## Pitch
 
 Clarity is the first healthcare prevention and health management software that
-allows for physicians and insurance providers to see what their patients consume
+allows physicians and insurance providers to see what their patients' consume
 in real-time.
 
 ## Problem
@@ -47,15 +47,15 @@ in real-time.
 
 1. Most deaths in the U.S. are preventable and are related to our nutrition.
 2. Less than 8% of healthcare in the U.S. is preventative.
-3. Physicians do not have access to any of their patients food & drug related
+3. Physicians do not have access to any of their patients food & drug-related
    consumption data.
 4. The cost of healthcare in the next 50 years will rise from 20% of GDP to 50%
    of GDP
-5. Why there is current lack of healthcare prevention software? We have a
-   healthcare system that is focused on illness rather than wellness Healthcare
-   prevention is bad business, because healthy person is a non-existent patient.
-5. The American Healthcare Crisis is not a healthcare based problem, it’s a
-   market based problem. That requires a market based solution.
+5. Why is there a current lack of healthcare prevention software? We have a
+   healthcare system that is focused on illness rather than wellness. Healthcare
+   prevention is bad business because a healthy person is a non-existent patient.
+5. The American Healthcare Crisis is not a healthcare-based problem, it’s a
+   market-based problem. That requires a market-based solution.
 
 ### Problem for Health Insurance Providers
 
@@ -64,16 +64,17 @@ of health spending is waste.
 
 [The cost of healthcare to the U.S. economy is ~4 trillion dollars per year.](#1-health-care-and-the-budget-issues-and-challenges-for-reform)
 
-If we help insurance providers in reducing economic waste we
+If we help insurance providers in reducing the economic waste we can pass the savings
+on to the consumer and reduce the cost of healthcare in the U.S.
 
 ### Problem for Physicians
 
 ## Solution
 
 Clarity is the first healthcare prevention software that provides nutritional
-data ontransactions made for an insurance provider's entitlement population as
-well as a healthcare provider's patient population. In doiing so we increase
-diagnostic accuracy and we help reduce the rates of risk.
+data on transactions made for an insurance provider's entitlement population as
+well as a healthcare provider's patient population. In doing so we increase
+diagnostic accuracy, and we help reduce the rates of risk.
 
 ### Solution Statement
 
@@ -84,14 +85,14 @@ diagnostic accuracy and we help reduce the rates of risk.
 Population health management software. Data Collection and Platform
 Infrastructure
 
-1. Clarity collects an individual’s food & drug related transactions.
+1. Clarity collects an individual’s food & drug-related transactions.
 2. Parse and generates a patient profile nutritional data structure from those
    transactions.
 3. Integrate and pipeline that data into pre-existing legacy software to reduce
    onboarding expenses.
 
 We provide entitlement's nutritional intake behavioral patterns, by providing
-food and drug related transactional metadata for insurers.
+food and drug-related transactional metadata for insurers.
 
 By providing nutritional data on transactions made for an insurance provider's
 entitlement population we help reduce waste.
@@ -105,19 +106,19 @@ more accurately...
 
 Insurance companies run on underwriting margin. Insurance companies will not be
 creatively destroyed. Health Insurance companies have two things that maintain
-their status... Their capital and they are at the center of all the data.
+their status... Their capital, and they are at the center of all the data.
 
 What we think we know about healthcare is wrong by Luke Williams
 
-|        Cliche       |        Hypothesis       |
-| ------------------- | ----------------------- |
-| Healthcare costs always go up | What if we keep healthcare costs flat or even lower them?
-| Healthy people are better risk than sick people | What if the sickest populations were the best kind of risk?
-| Waste in healthcare system is unavoidable | What if we could pay for the uninsured by reducing waste? What if we could pay back half the nation's debt by fixing this problem?
+| Cliche                                            |        Hypothesis       |
+|---------------------------------------------------| ----------------------- |
+| Healthcare costs always go up                     | What if we keep healthcare costs flat or even lower them?
+| Healthy people are a better risk than sick people | What if the sickest populations were the best kind of risk?
+| Waste in the healthcare system is unavoidable     | What if we could pay for the uninsured by reducing waste? What if we could pay back half the nation's debt by fixing this problem?
 
 ### Solution for Physicians
 
-Pipeline that data structure in pre-existing web based EMS portal.  (EMS -
+Pipeline that data structure in pre-existing web-based EMS portal.  (EMS -
 electronic medical records systems).
 
 ## Product
@@ -316,7 +317,7 @@ electronic medical records systems).
     nutrition-score-fr_100g : Nutri-Score - 
     Nutrition score derived from the UK FSA score and adapted for the French market (formula defined by the team of Professor Hercberg)
 
-    nutrition-score-uk_100g : nutrition score defined by the UK Food Standards Adminstration (FSA)
+    nutrition-score-uk_100g : nutrition score defined by the UK Food Standards Administration (FSA)
 
   }
 ] 
@@ -339,12 +340,12 @@ Utilizing the following,
 
 ### Nationwide Market Size
 
-Total addressable market size in the United States.
-Adpotion for Key Clients
+The total addressable market size in the United States.
+Adoption for Key Clients
 
 5,654 Health Insurance Companies
 784,626 Healthcare Providers
-330 Million Americans / Define total smart phone users.
+330 Million Americans / Define total smartphone users.
 
 ### Clients
 
