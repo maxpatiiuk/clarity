@@ -1,6 +1,8 @@
 # Clarity
 
 A healthcare prevention software that changes social behavior for the better.
+    
+[pitch for startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
 
 ## Table of Contents
 
@@ -26,12 +28,7 @@ A healthcare prevention software that changes social behavior for the better.
 
 ## Mission Statement
 
-Clarity is a software project that aims to mitigate the burden of chronic
-disease in America by applying an intermediary layer of computation behind every
-food and drug-related transaction made by all individuals in our economy today.
-We believe that software can and should be capable of changing behavior for the
-better and we believe that a new paradigm of healthcare prevention software can
-realize that belief system.
+Clarity is a software project that aims to mitigate the burden of chronic disease in America by applying an intermediary layer of computation behind every food and drug-related transaction made by all individuals in our economy today.  We believe that software can and should be capable of changing behavior for the better and we believe that a new paradigm of healthcare prevention software can realize that belief system.
 
 ## Pitch
 
@@ -490,5 +487,3 @@ Need to research relevant security standards and implications (i.e, HIPAA)
 [uber api](https://developer.uber.com/docs/eats/introduction)
 
 [food labeling](https://www.nal.usda.gov/legacy/aglaw/food-labeling)
-
-[pitch for startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
