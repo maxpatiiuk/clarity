@@ -1,7 +1,4 @@
 <img align="right" width=20% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
-<img align="right" width=20% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
-
-![demo-00 Extract 001](https://user-images.githubusercontent.com/65584733/196008972-c5f68471-792d-4aea-8451-1daf39e2881c.png)
 
 # Clarity
 
@@ -36,6 +33,9 @@ Clarity is a software project that aims to mitigate the burden of chronic diseas
 ## Pitch
 
 Clarity is the first healthcare prevention and health management software B2B2C company that allows physicians and insurance providers to see what their patients' consume in real-time.
+
+![demo-00 Extract 001](https://user-images.githubusercontent.com/65584733/196009720-af7e437a-c457-4beb-a02e-61b20a78429e.png)
+
 
 ## Problem
 
