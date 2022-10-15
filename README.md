@@ -63,8 +63,7 @@ of all health care spending is waste.
 
 [The cost of healthcare to the U.S. economy is ~4 trillion dollars per year.](#1-health-care-and-the-budget-issues-and-challenges-for-reform)
 
-If we help insurance providers in reducing the economic waste we can pass the savings
-on to the consumer and reduce the cost of healthcare in the U.S.
+If we help insurance providers in reducing the economic waste we can pass the savings on to the consumer and reduce the cost of healthcare in the U.S.
 
 “Despite efforts to reduce overtreatment, improve care, and address overpayment, it is likely that substantial waste in US health care spending remains.”  
 
