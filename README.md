@@ -507,3 +507,8 @@ Even if the consumer does in fact “cheat” meaning one of the following optio
 [uber api](https://developer.uber.com/docs/eats/introduction)
 
 [food labeling](https://www.nal.usda.gov/legacy/aglaw/food-labeling)
+
+
+Works Cited
+
+“Health Care Industry Insights: Why the Use of Preventive Services Is Still Low.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 14 Mar. 2019, https://www.cdc.gov/pcd/issues/2019/18_0625.htm#tables. 
