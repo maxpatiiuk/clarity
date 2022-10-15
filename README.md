@@ -1,10 +1,6 @@
-<img align="left" width=10% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
-
 # Clarity
 
-[document for startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
-
-[start-up school pitch](https://drive.google.com/drive/folders/1AUrZg-D0Rc-xXVJVcf2rpLqQ21A8LDME)
+<img align="left" width=10% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
 
 ## Table of Contents
 
@@ -27,6 +23,8 @@
 7. [Clients](###clients)
 8. [Vendors](###vendors)
 9. [References](##references)
+10. [startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
+11. [start-up school pitch](https://drive.google.com/drive/folders/1AUrZg-D0Rc-xXVJVcf2rpLqQ21A8LDME)
 
 ## Mission Statement
 
