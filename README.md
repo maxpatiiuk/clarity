@@ -1,8 +1,9 @@
 # Clarity
-
-A healthcare prevention software that changes social behavior for the better.
     
-[pitch for startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
+[document for startup school](https://docs.google.com/document/d/11NN8rDbprI-ijqtp7zSIqtlmLyvz_9Z4hU3VqT5h3oc/edit)
+
+[start-up school pitch](https://drive.google.com/drive/folders/1AUrZg-D0Rc-xXVJVcf2rpLqQ21A8LDME)
+
 
 ## Table of Contents
 
@@ -32,8 +33,7 @@ Clarity is a software project that aims to mitigate the burden of chronic diseas
 
 ## Pitch
 
-Clarity is the first healthcare prevention and health management software B2B2C company that allows physicians and insurance providers 
-to see what their patients' consume in real-time.
+Clarity is the first healthcare prevention and health management software B2B2C company that allows physicians and insurance providers to see what their patients' consume in real-time.
 
 ## Problem
 
