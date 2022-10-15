@@ -4,7 +4,6 @@
 
 [start-up school pitch](https://drive.google.com/drive/folders/1AUrZg-D0Rc-xXVJVcf2rpLqQ21A8LDME)
 
-
 ## Table of Contents
 
 1. [Mission Statement](#mission-statement)
@@ -79,7 +78,7 @@ diagnostic accuracy, and we help reduce the rates of risk.
 
 ### Solution for Health Insurance Providers
 
-// define key metrics to optimize for Insurance Provider?
+<!-- // define key metrics to optimize for Insurance Provider? -->
 
 Population health management software. Data Collection and Platform
 Infrastructure
@@ -498,6 +497,8 @@ Even if the consumer does in fact “cheat” meaning one of the following optio
 
 #### [Reinvesting the Health Insurance Business](https://youtu.be/RplUwT6-HmQ)
 
+Shrank WH, Rogstad TL, Parekh N. Waste in the US Health Care System: Estimated Costs and Potential for Savings. JAMA. 2019 Oct 15;322(15):1501-1509. doi: 10.1001/jama.2019.13978. PMID: 31589283.
+
 #### [U.S. Health Insurance Industry Analysis Report](https://content.naic.org/sites/default/files/inline-files/2020-Annual-Health-Insurance-Industry-Analysis-Report.pdf)
 
 [all of us](https://allofus.nih.gov)
@@ -507,3 +508,6 @@ Even if the consumer does in fact “cheat” meaning one of the following optio
 [uber api](https://developer.uber.com/docs/eats/introduction)
 
 [food labeling](https://www.nal.usda.gov/legacy/aglaw/food-labeling)
+
+
+[Waste in the US Health Care System: Estimated Costs and Potential for Savings](https://pubmed.ncbi.nlm.nih.gov/31589283/#affiliation-2)
