@@ -2,6 +2,8 @@
 
 # Clarity
 
+![demo-00 Extract 001](https://user-images.githubusercontent.com/65584733/196009810-0e8dfb74-6dd1-4fe7-8a39-69e2a6bd2430.jpeg)
+
 ## Table of Contents
 
 1. [Mission Statement](#mission-statement)
