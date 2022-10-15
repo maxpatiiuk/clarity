@@ -507,3 +507,18 @@ Even if the consumer does in fact “cheat” meaning one of the following optio
 [uber api](https://developer.uber.com/docs/eats/introduction)
 
 [food labeling](https://www.nal.usda.gov/legacy/aglaw/food-labeling)
+
+[The Intersection of Neighborhood Racial Segregation, Poverty, and Urbanicity and its Impact on Food Store Availability in the United States](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3970577/)
+[Carcinogenicity of consumption of red and processed meat](https://www.thelancet.com/action/showPdf?pii=S1470-2045%2815%2900444-1)
+
+[WHO report says eating processed meat is carcinogenic: Understanding the findings](https://www.hsph.harvard.edu/nutritionsource/2015/11/03/report-says-eating-processed-meat-is-carcinogenic-understanding-the-findings/)
+
+[Why we can't stop eating unhealthy foods](https://www.youtube.com/watch?v=wTNlHyjip94&feature=youtu.be)
+Is a Whole Food Plant-Based Diet an Answer to Chronic Disease? 2017 Documentary
+How Not to Die - Discover the Foods Scientifically Proven to Prevent and Reverse Disease
+by Michael Greger, M.D., FACLM
+The Whole Foods Diet | John Mackey | Talks at Google
+How to live to be 100+ - Dan Buettner
+Dan Buettner and team study the world's "Blue Zones," communities whose elders live with vim and vigor to record-setting age
+Health Care Industry Insights: Why the Use of Preventive Services Is Still Low
+Committee on World Food Security - Making a difference in food security and nutrition
