@@ -81,6 +81,9 @@ The United States has a voluntary private employer-based and individual-based sy
 
 ![fig](https://user-images.githubusercontent.com/65584733/196010463-82a2b88f-4322-446c-a66a-393d3cf831b0.svg)
 
+> Shrank, William H et al. “Waste in the US Healthcare System: Estimated Costs and Potential for Savings.” 
+JAMA vol. 322,15 (2019): 1501-1509. doi:10.1001/jama.2019.13978
+
 
 
 ### Problem for Physicians
