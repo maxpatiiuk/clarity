@@ -32,9 +32,8 @@ Clarity is a software project that aims to mitigate the burden of chronic diseas
 
 ## Pitch
 
-Clarity is the first healthcare prevention and health management software that
-allows physicians and insurance providers to see what their patients' consume
-in real-time.
+Clarity is the first healthcare prevention and health management software B2B2C company that allows physicians and insurance providers 
+to see what their patients' consume in real-time.
 
 ## Problem
 
@@ -47,7 +46,7 @@ in real-time.
 3. Physicians do not have access to any of their patients food & drug-related
    consumption data.
 4. The cost of healthcare in the next 50 years will rise from 20% of GDP to 50%
-   of GDP
+   of GDP.
 5. Why is there a current lack of healthcare prevention software? We have a
    healthcare system that is focused on illness rather than wellness. Healthcare
    prevention is bad business because a healthy person is a non-existent patient.
@@ -57,7 +56,7 @@ in real-time.
 ### Problem for Health Insurance Providers
 
 In 2009 a board of physicians at the institute of medicine discovered that ~30%
-of health spending is waste.
+of all health care spending is waste.
 
 [The cost of healthcare to the U.S. economy is ~4 trillion dollars per year.](#1-health-care-and-the-budget-issues-and-challenges-for-reform)
 
@@ -65,6 +64,9 @@ If we help insurance providers in reducing the economic waste we can pass the sa
 on to the consumer and reduce the cost of healthcare in the U.S.
 
 ### Problem for Physicians
+
+“There may be no such thing as dying from old age. From a study of more than forty-two thousand consecutive autopsies, centenarians—those who live past one hundred—were found to have succumbed to diseases in 100 percent of the cases examined. Though most were perceived, even by their physicians, to have been healthy just prior to death, not one “died of old age.”1 Until recently, advanced age had been considered to be a disease itself,2 but people don’t die as a consequence of maturing. They die from disease, most commonly heart attacks.3 Most deaths in the United States are preventable, and they are related to what we eat.4 Our diet is the number-one cause of premature death and the number-one cause of disability.5 Surely, diet must also be the number-one thing taught in medical schools, right? Sadly, it’s not. According to the most recent national survey, only a quarter of medical schools offer a single course in nutrition, down from 37 percent thirty years ago.6 While most of the public evidently considers doctors to be “very credible” sources of nutrition information,7 six out of seven graduating doctors[…]”  How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
+Greger, Michael, MD
 
 ## Solution
 
@@ -112,6 +114,7 @@ What we think we know about healthcare is wrong by Luke Williams
 | Healthcare costs always go up                     | What if we keep healthcare costs flat or even lower them?
 | Healthy people are a better risk than sick people | What if the sickest populations were the best kind of risk?
 | Waste in the healthcare system is unavoidable     | What if we could pay for the uninsured by reducing waste? What if we could pay back half the nation's debt by fixing this problem?
+
 
 ### Solution for Physicians
 
@@ -372,8 +375,7 @@ Aetna’s Interoperability API Developer Portal
 
 #### 1. Open Banking
 
-Open Banking would make it easier to get the transaction history. Will
- be good to look out for that in the comming years.
+Open Banking would make it easier to get the transaction history. Will be good to look out for that in the coming years.
 
 - https://en.wikipedia.org/wiki/Payment_Services_Directive#Revised_Directive_on_Payment_Services_(PSD2)
 - https://www.scribd.com/doc/298569302/The-Open-Banking-Standard
@@ -442,6 +444,8 @@ hobbits.
 Apple has been researching this since 2014 and the feature may come in a
 future Apple Watch.
 
+DexCom the manufacturer of glucose monitoring systems and UnitedHealthcare partnered to track time-time data on their patients with diabetes.  DexCom's devices are intended to help members reduce their use of perscription drug medication and in turn reduce permiums.
+
 #### 5. Security concerns
 
 Since users can get lower insurance premiums by eating healthy food &
@@ -451,6 +455,22 @@ that would be beneficial for lowering their insurance premiums.
 Similarly, malicious actors might benefit from getting access to Clarity's data.
 
 Need to research relevant security standards and implications (i.e, HIPAA)
+
+#### 6.  Data integrity concerns
+
+## integrity
+
+Even if the consumer does in fact “cheat” meaning one of the following options for a single transaction may occur:  Clarity.  Clarity recognizes transaction, consumer consumes ALL items  Clarity recognizes transaction, consumer consumes SOME of the items.  Clarity recognizes transaction, consumer consumes NONE of the items.
+
+### figure 
+
+| clarity % in transaction recognization | user % consumption of transactions.items[ALL] |
+|---------|----------|
+| ✓ 100%  |   100%   |
+| ✓ 100%  |   < 50%  |
+| ✓ 100%  |   0%     |
+| ✓ < 50% |   ?      |
+|   0%    |   ?      |
 
 ## References
 
