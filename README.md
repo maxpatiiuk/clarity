@@ -2,7 +2,6 @@
 
 # Clarity
 
-![demo-00 Extract 001](https://user-images.githubusercontent.com/65584733/196009810-0e8dfb74-6dd1-4fe7-8a39-69e2a6bd2430.jpeg)
 
 ## Table of Contents
 
@@ -125,7 +124,8 @@ What we think we know about healthcare is wrong by Luke Williams
 Pipeline that data structure in pre-existing web-based EMS portal.  (EMS -
 electronic medical records systems).
 
-## Product
+## 🚧 Product
+
 
 ![preview 001](https://user-images.githubusercontent.com/65584733/196008038-e181e1d2-64c2-4f72-ac31-beb4bf65a39f.jpeg)
 ![preview 002](https://user-images.githubusercontent.com/65584733/196008034-39d181d8-9cff-45f2-a4ca-b69fb80c434e.jpeg)
