@@ -1,6 +1,6 @@
-# Clarity
+<img align="right" width=20% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
 
-<img align="left" width=10% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
+# Clarity
 
 ## Table of Contents
 
