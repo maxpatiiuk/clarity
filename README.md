@@ -2,6 +2,7 @@
 
 # Clarity
 
+
 ## Table of Contents
 
 1. [Mission Statement](#mission-statement)
@@ -34,6 +35,9 @@ Clarity is a software project that aims to mitigate the burden of chronic diseas
 
 Clarity is the first healthcare prevention and health management software B2B2C company that allows physicians and insurance providers to see what their patients' consume in real-time.
 
+![demo-00 Extract 001](https://user-images.githubusercontent.com/65584733/196009720-af7e437a-c457-4beb-a02e-61b20a78429e.png)
+
+
 ## Problem
 
 > An apple a day keeps the doctor away
@@ -59,12 +63,34 @@ of all health care spending is waste.
 
 [The cost of healthcare to the U.S. economy is ~4 trillion dollars per year.](#1-health-care-and-the-budget-issues-and-challenges-for-reform)
 
-If we help insurance providers in reducing the economic waste we can pass the savings
-on to the consumer and reduce the cost of healthcare in the U.S.
+If we help insurance providers in reducing the economic waste we can pass the savings on to the consumer and reduce the cost of healthcare in the U.S.
+
+“Despite efforts to reduce overtreatment, improve care, and address overpayment, it is likely that substantial waste in US health care spending remains.”  
+
+In a 2009 review a board of physicians at the national institute of medicine discovered that ~30% of all health care spending is wasted.  Estimates that the U.S. loses some $935 billion annually to medical fraud, inefficiencies, and other siphons in the health-care system. 
+Failure of care delivery, $102.4 billion to $165.7 billion Failure of care coordination, $27.2 billion to $78.2 billion
+Overtreatment of care, $75.7 billion to $101.2 billion
+Pricing failure, $230.7 billion to $240.5 billion
+Fraud and abuse, $58.5 billion to $83.9 billion
+Administrative complexity, $265.6 billion
+
+In comparison, the Defense Department budget $757.8 billion for the war in Iraq over the eight years it was there.  Despite efforts to reduce overtreatment, improve care, and address overpayment, it is likely that substantial waste in US health care spending remains.  Health insurers underwriting margins could be better optimized if they had nutritional data on their entitlement populations.  If insurers had access to a patients food and drug related spending they could in turn better assessing, underwriting, and price risk. 
+
+How do we address the administrative costs / complexity waste?
+The United States has a voluntary private employer-based and individual-based system. Private insurance as the primary form of insurance is highest in the United States at 55.3%
+
+![fig](https://user-images.githubusercontent.com/65584733/196010463-82a2b88f-4322-446c-a66a-393d3cf831b0.svg)
+
+> Shrank, William H et al. “Waste in the US Healthcare System: Estimated Costs and Potential for Savings.” 
+JAMA vol. 322,15 (2019): 1501-1509. doi:10.1001/jama.2019.13978
+
+
 
 ### Problem for Physicians
 
-“There may be no such thing as dying from old age. From a study of more than forty-two thousand consecutive autopsies, centenarians—those who live past one hundred—were found to have succumbed to diseases in 100 percent of the cases examined. Though most were perceived, even by their physicians, to have been healthy just prior to death, not one “died of old age.”1 Until recently, advanced age had been considered to be a disease itself,2 but people don’t die as a consequence of maturing. They die from disease, most commonly heart attacks.3 Most deaths in the United States are preventable, and they are related to what we eat.4 Our diet is the number-one cause of premature death and the number-one cause of disability.5 Surely, diet must also be the number-one thing taught in medical schools, right? Sadly, it’s not. According to the most recent national survey, only a quarter of medical schools offer a single course in nutrition, down from 37 percent thirty years ago.6 While most of the public evidently considers doctors to be “very credible” sources of nutrition information,7 six out of seven graduating doctors[…]”  How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
+“There may be no such thing as dying from old age. From a study of more than forty-two thousand consecutive autopsies, centenarians—those who live past one hundred—were found to have succumbed to diseases in 100 percent of the cases examined. Though most were perceived, even by their physicians, to have been healthy just prior to death, not one “died of old age.”  Until recently, advanced age had been considered to be a disease itself,2 but people don’t die as a consequence of maturing. They die from disease, most commonly heart attacks.  Most deaths in the United States are preventable, and they are related to what we eat. Our diet is the number-one cause of premature death and the number-one cause of disability.
+
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 Greger, Michael, MD
 
 ## Solution
@@ -120,7 +146,8 @@ What we think we know about healthcare is wrong by Luke Williams
 Pipeline that data structure in pre-existing web-based EMS portal.  (EMS -
 electronic medical records systems).
 
-## Product
+## 🚧 Product
+
 
 ![preview 001](https://user-images.githubusercontent.com/65584733/196008038-e181e1d2-64c2-4f72-ac31-beb4bf65a39f.jpeg)
 ![preview 002](https://user-images.githubusercontent.com/65584733/196008034-39d181d8-9cff-45f2-a4ca-b69fb80c434e.jpeg)
