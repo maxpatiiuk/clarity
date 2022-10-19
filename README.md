@@ -58,18 +58,21 @@ Clarity is the first healthcare prevention and health management software B2B2C 
 
 ### Problem for Health Insurance Providers
 
-In 2009 a board of physicians at the institute of medicine discovered that ~30%
-of all health care spending is waste.
+In 2009 a board of physicians at the institute of medicine discovered that ~30% of all health care spending is waste.
 
 [The cost of healthcare to the U.S. economy is ~4 trillion dollars per year.](#1-health-care-and-the-budget-issues-and-challenges-for-reform)
 
-If we help insurance providers in reducing the economic waste we can pass the savings on to the consumer and reduce the cost of healthcare in the U.S.
+- The United States spent approximately twice as much as other developed countries on medical care, yet utilization rates in the United States were largely similar to those in other nations. 
+- Total health care spending consumes about 20% of the gross domestic product (GDP) and as costs are projected to rise up to 50% by year 2050.  Rising healthcare costs present a challenge not only for the federal government but also for private payers, however an innovative implementation of effective measures to eliminate economic waste represents an opportunity reduce the continued increases in US health care expenditures.
 
-“Despite efforts to reduce overtreatment, improve care, and address overpayment, it is likely that substantial waste in US health care spending remains.”  
+- If we help insurance providers in reducing the economic waste we can pass the savings on to the consumer and reduce the cost of healthcare in the U.S.
 
-In a 2009 review a board of physicians at the national institute of medicine discovered that ~30% of all health care spending is wasted.  Estimates that the U.S. loses some $935 billion annually to medical fraud, inefficiencies, and other siphons in the health-care system. 
-Failure of care delivery, $102.4 billion to $165.7 billion Failure of care coordination, $27.2 billion to $78.2 billion
+- “Despite efforts to reduce overtreatment, improve care, and address overpayment, it is likely that substantial waste in US health care spending remains.”  
 
+- In a 2009 review a board of physicians at the national institute of medicine discovered that ~30% of all health care spending is wasted.  Estimates that the U.S. loses some $935 billion annually to medical fraud, inefficiencies, and other siphons in the health-care system. 
+
+- Failure of care delivery, $102.4 billion to $165.7 billion
+- Failure of care coordination, $27.2 billion to $78.2 billion
 - Overtreatment of care, $75.7 billion to $101.2 billion
 - Pricing failure, $230.7 billion to $240.5 billion
 - Fraud and abuse, $58.5 billion to $83.9 billion
