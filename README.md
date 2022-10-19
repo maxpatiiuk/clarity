@@ -69,14 +69,18 @@ If we help insurance providers in reducing the economic waste we can pass the sa
 
 In a 2009 review a board of physicians at the national institute of medicine discovered that ~30% of all health care spending is wasted.  Estimates that the U.S. loses some $935 billion annually to medical fraud, inefficiencies, and other siphons in the health-care system. 
 Failure of care delivery, $102.4 billion to $165.7 billion Failure of care coordination, $27.2 billion to $78.2 billion
-Overtreatment of care, $75.7 billion to $101.2 billion
-Pricing failure, $230.7 billion to $240.5 billion
-Fraud and abuse, $58.5 billion to $83.9 billion
-Administrative complexity, $265.6 billion
+
+- Overtreatment of care, $75.7 billion to $101.2 billion
+- Pricing failure, $230.7 billion to $240.5 billion
+- Fraud and abuse, $58.5 billion to $83.9 billion
+- Administrative complexity, $265.6 billion
 
 In comparison, the Defense Department budget $757.8 billion for the war in Iraq over the eight years it was there.  Despite efforts to reduce overtreatment, improve care, and address overpayment, it is likely that substantial waste in US health care spending remains.  Health insurers underwriting margins could be better optimized if they had nutritional data on their entitlement populations.  If insurers had access to a patients food and drug related spending they could in turn better assessing, underwriting, and price risk. 
 
 How do we address the administrative costs / complexity waste?
+
+Clarity
+
 The United States has a voluntary private employer-based and individual-based system. Private insurance as the primary form of insurance is highest in the United States at 55.3%
 
 ![fig](https://user-images.githubusercontent.com/65584733/196010463-82a2b88f-4322-446c-a66a-393d3cf831b0.svg)
@@ -104,7 +108,7 @@ diagnostic accuracy, and we help reduce the rates of risk.
 
 ### Solution for Health Insurance Providers
 
-<!-- // define key metrics to optimize for Insurance Provider? -->
+// define key metrics to optimize for Insurance Provider?
 
 Population health management software. Data Collection and Platform
 Infrastructure
