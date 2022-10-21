@@ -1,4 +1,4 @@
-<img align="right" width=20% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
+x<img align="right" width=20% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
 
 # Clarity
 
@@ -102,10 +102,7 @@ Greger, Michael, MD
 
 ## Solution
 
-Clarity is the first healthcare prevention software that provides nutritional
-data on transactions made for an insurance provider's entitlement population as
-well as a healthcare provider's patient population. In doing so we increase
-diagnostic accuracy, and we help reduce the rates of risk.
+Clarity is the first healthcare prevention software that provides nutritional data on transactions made for an insurance provider's entitlement population as well as a healthcare provider's patient population. In doing so we increase diagnostic accuracy, and we help reduce the rates of risk
 
 ### Solution Statement
 
