@@ -2,9 +2,10 @@
 
 # Clarity
 
-[**View Pitch Here**](https://youtu.be/VVVlhPTN2NQ?t=3004)
-<img align="right" width=50% alt="Screenshot 2022-11-04 at 1 16 39 PM" src="https://user-images.githubusercontent.com/65584733/200047493-b717f144-5a82-416c-b7cc-c5356395497c.png">
+<a href="https://youtu.be/VVVlhPTN2NQ?t=3004"><img align="right" width=60% alt="clarity-thumbnail" src="https://user-images.githubusercontent.com/65584733/200047493-b717f144-5a82-416c-b7cc-c5356395497c.png"></a>
 
+[**View Pitch Here**](https://youtu.be/VVVlhPTN2NQ?t=3004)
+    
 ## Table of Contents
 
 1. [Mission Statement](#mission-statement)
