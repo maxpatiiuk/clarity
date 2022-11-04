@@ -1,7 +1,9 @@
-x<img align="right" width=20% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
+<img align="left" width=10% src="https://user-images.githubusercontent.com/65584733/196008532-5d93cf43-db0a-4c4f-8b5b-7b73c6568cab.png">
 
 # Clarity
 
+[**View Pitch Here**](https://youtu.be/VVVlhPTN2NQ?t=3004)
+<img align="right" width=50% alt="Screenshot 2022-11-04 at 1 16 39 PM" src="https://user-images.githubusercontent.com/65584733/200047493-b717f144-5a82-416c-b7cc-c5356395497c.png">
 
 ## Table of Contents
 
